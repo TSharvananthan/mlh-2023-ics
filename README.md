@@ -13,4 +13,5 @@ The project is licensed under the MIT license, which means that it can be used, 
 
 # Authors
 Thanussian Sharvananthan ~ Everything but the README
+
 ChatGPT ~ Nothing but the README
